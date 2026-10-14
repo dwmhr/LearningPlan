@@ -1,3 +1,8 @@
+## Development
+
+This project is maintained as a learning project to practice Git workflows,
+including branches, commits, pull requests, and code reviews.
+
 # Schoters Student Dashboard
 
 A pixel-close, fully interactive clone of the Schoters dashboard, built with **Next.js 15 (App Router)**, **TypeScript**, and **Tailwind CSS** — ready to deploy on **Vercel**.
